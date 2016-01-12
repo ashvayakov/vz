@@ -2,7 +2,6 @@
 export LC_ALL=C
 LALIMIT="80"
 EMAIL="alerts@colobridge.net"
-#EMAIL="a.shvayakov@colobridge.net"
 SUBJECT="WARNING-High load notification"
 
 
