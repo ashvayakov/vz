@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#EMAIL="a.shvayakov@gmail.com"
+
 EMAIL="alerts@colobridge.net"
 
 PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/sbin
